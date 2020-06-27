@@ -1,24 +1,24 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
-
+<%@ taglib uri="http://www.springframework.org/tags" prefix="s"%>
 
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-
+  <c:url value="/" var="contextPath" />
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="Atividade de estágio - FIEP">
+  <meta name="description" content="Atividade de estÃ¡gio - FIEP">
   <meta name="author" content="Gilmar">
-
+  <link rel="icon" href="//cdn.shopify.com/s/files/1/0155/7645/t/177/assets/favicon.ico?11981592617154272979" type="image/ico" />
+  <link href="https://plus.googlecom/108540024862647200608" rel="publisher" />
   <title>ADN - SESI</title>
 
   <!-- Custom fonts for this template-->
-  <link href="resouces/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+  <link href="${contextPath}resources/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css" media="all" />
+  <link href='https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i' rel="stylesheet">
 
   <!-- Custom styles for this template-->
   <link href="resources/css/sb-admin-2.min.css" rel="stylesheet">
@@ -481,7 +481,7 @@
         <div class="modal-header">
           <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
           <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
+            <span aria-hidden="true">Ã—</span>
           </button>
         </div>
         <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
@@ -494,8 +494,8 @@
   </div>
 
   <!-- Bootstrap core JavaScript-->
-  <script src="resource/vendor/jquery/jquery.min.js"></script>
-  <script src="resource/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script href="resource/vendor/jquery/jquery.min.js"></script>
+  <script href="resource/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   <!-- Core plugin JavaScript-->
   <script src="resource/vendor/jquery-easing/jquery.easing.min.js"></script>
