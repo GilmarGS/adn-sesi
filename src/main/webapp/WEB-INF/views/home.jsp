@@ -148,7 +148,7 @@
     <div id="content-wrapper" class="d-flex flex-column">
 
       <!-- Main Content -->
-      <div id="content">
+      <div id="content"><br>
 
         <!-- Begin Page Content -->
         <div class="container-fluid">
