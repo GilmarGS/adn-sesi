@@ -494,8 +494,8 @@
   </div>
 
   <!-- Bootstrap core JavaScript-->
-  <script href="resource/vendor/jquery/jquery.min.js"></script>
-  <script href="resource/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="resource/vendor/jquery/jquery.min.js"></script>
+  <script src="resource/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   <!-- Core plugin JavaScript-->
   <script src="resource/vendor/jquery-easing/jquery.easing.min.js"></script>
