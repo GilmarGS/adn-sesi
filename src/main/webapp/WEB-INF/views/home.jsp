@@ -495,7 +495,7 @@
 
   <!-- Bootstrap core JavaScript-->
   <script type="text/javascript" src="${contextPath}resource/vendor/jquery/jquery.min.js"></script>
-  <script type="text/javascript" src="resource/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script type="text/javascript" src="${contextPath}resource/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   <!-- Core plugin JavaScript-->
   <script type="text/javascript" src="${contextPath}resource/vendor/jquery-easing/jquery.easing.min.js"></script>
