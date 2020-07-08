@@ -74,7 +74,7 @@
             	<span>Editar</span>
 			</a>
             <a class="collapse-item" href="cards.html">
-            	<i class="fas fa-fw fa-line-chart"></i>
+            	<i class="fas fa-fw fa-cog"></i>
             	<span>Relatórios</span>
             </a>
           </div>
