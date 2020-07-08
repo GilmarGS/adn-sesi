@@ -90,14 +90,10 @@
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Custom Utilities:</h6>
-            <a class="collapse-item" href="buttons.html">
-            	<i class="fas fa-fw fa-cog"></i>
-            	<span>Editar</span>
-			</a>
-            <a class="collapse-item" href="cards.html">
-            	<i class="fas fa-fw fa-line-chart"></i>
-            	<span>Relatórios</span>
-            </a>
+            <a class="collapse-item" href="utilities-color.html">Colors</a>
+            <a class="collapse-item" href="utilities-border.html">Borders</a>
+            <a class="collapse-item" href="utilities-animation.html">Animations</a>
+            <a class="collapse-item" href="utilities-other.html">Other</a>
           </div>
         </div>
       </li>
