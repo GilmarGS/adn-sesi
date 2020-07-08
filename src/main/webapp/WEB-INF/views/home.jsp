@@ -126,9 +126,7 @@
 				<h6 align="center">DEPARTAMENTO REGIONAL</h6>
 				<h6 align="center">ANÁLISE DE DESEMPENHO 2020</h6>
             </div>
-          </div>
-          <div class="row"></div>
-          <div class="row"></div>
+          </div><br><br>
         <!-- /.container-fluid -->
 
       </div>
