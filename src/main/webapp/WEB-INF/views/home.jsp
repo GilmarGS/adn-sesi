@@ -121,12 +121,14 @@
             </div>
           </div><br><br>
 		  <div class = "row">
-		  	<div class="container-fluid"></div>
+		  	<div class="container-fluid" align="center"></div>
 				<h6 align="center">GERÊNCIA DE PLANEJAMENTO E ORÇAMENTO</h6>
 				<h6 align="center">DEPARTAMENTO REGIONAL</h6>
 				<h6 align="center">ANÁLISE DE DESEMPENHO 2020</h6>
             </div>
           </div>
+          <div class="row"></div>
+          <div class="row"></div>
         <!-- /.container-fluid -->
 
       </div>
