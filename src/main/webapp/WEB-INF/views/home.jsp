@@ -121,7 +121,7 @@
             </div>
           </div><br><br>
 		  <div class = "row">
-		  	<div class="container-fluid" align="center"></div>
+		  	<div class="container-fluid" align="center">
 				<h6 align="center">GERÊNCIA DE PLANEJAMENTO E ORÇAMENTO</h6>
 				<h6 align="center">DEPARTAMENTO REGIONAL</h6>
 				<h6 align="center">ANÁLISE DE DESEMPENHO 2020</h6>
