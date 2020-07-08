@@ -121,7 +121,7 @@
           <br><br>
           <div class="row"> 
           
-            <div class="container-fluid">
+            <div class="container-fluid" align="center">
                <img src="resources/img/logo.png" alt="" width="225" height="100" class="margin-top">
 				<br><br>
 				<h6 align="center">GERÊNCIA DE PLANEJAMENTO E ORÇAMENTO</h6>
