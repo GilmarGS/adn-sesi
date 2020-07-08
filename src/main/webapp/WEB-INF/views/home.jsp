@@ -36,7 +36,7 @@
 
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
-        <div class="sidebar-brand-text mx-3">ADN - SENAI</div>
+        <div class="sidebar-brand-text mx-3">SENAI</div>
       </a>
 
       <!-- Divider -->
@@ -118,7 +118,7 @@
           <div class="row"> 
           
             <div class="container-fluid" align="center">
-               <img src="resources/img/logo.png" alt="" class="img-fluid img-thumbnail">
+               <img src="resources/img/logo.png" alt="Logo SENAI" class="img-fluid">
 				<br><br>
 				<h6 align="center">GERÊNCIA DE PLANEJAMENTO E ORÇAMENTO</h6>
 				<h6 align="center">DEPARTAMENTO REGIONAL</h6>
