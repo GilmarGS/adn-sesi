@@ -36,10 +36,7 @@
 
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
-        <div class="sidebar-brand-icon rotate-n-15">
-          <i class="fas fa-laugh-wink"></i>
-        </div>
-        <div class="sidebar-brand-text mx-3">ADN -SENAI</div>
+        <div class="sidebar-brand-text mx-3">ADN - SENAI</div>
       </a>
 
       <!-- Divider -->
@@ -121,14 +118,16 @@
           <div class="d-sm-flex align-items-center justify-content-between mb-4">
             <h1 class="h3 mb-0 text-gray-800">Dashboard</h1>
             
-	 	  <div class="container-fluid" align="center">
-			<img src="resources/img/logo.png" alt="" width="225" height="100" class="margin-top">
-			<br><br>
-			<h6 align="center">GERÊNCIA DE PLANEJAMENTO E ORÇAMENTO</h6>
-			<h6 align="center">DEPARTAMENTO REGIONAL</h6>
-			<h6 align="center">ANÁLISE DE DESEMPENHO 2020</h6>
-		  </div>
-          </div>
+            <!-- Earnings (Monthly) Card Example -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-primary shadow h-100 py-2">
+               <img src="resources/img/logo.png" alt="" width="225" height="100" class="margin-top">
+				<br><br>
+				<h6 align="center">GERÊNCIA DE PLANEJAMENTO E ORÇAMENTO</h6>
+				<h6 align="center">DEPARTAMENTO REGIONAL</h6>
+				<h6 align="center">ANÁLISE DE DESEMPENHO 2020</h6>
+              </div>
+            </div>
 
           <!-- Content Row -->
           <div class="row">
