@@ -120,6 +120,14 @@
           <!-- Page Heading -->
           <div class="d-sm-flex align-items-center justify-content-between mb-4">
             <h1 class="h3 mb-0 text-gray-800">Dashboard</h1>
+            
+	 	  <div class="container-fluid" align="center">
+			<img src="resources/img/logo.png" alt="" width="225" height="100" class="margin-top">
+			<br><br>
+			<h6 align="center">GERÊNCIA DE PLANEJAMENTO E ORÇAMENTO</h6>
+			<h6 align="center">DEPARTAMENTO REGIONAL</h6>
+			<h6 align="center">ANÁLISE DE DESEMPENHO 2020</h6>
+		  </div>
           </div>
 
           <!-- Content Row -->
